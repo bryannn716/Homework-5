@@ -1,6 +1,6 @@
 #Names
 
-*Bryan Pulla
-
-Ruiz Ambar
-Tobias Rebecca
+* Bryan Pulla
+* Kunaraja Czerinton
+* Ruiz Ambar
+* Tobias Rebecca
