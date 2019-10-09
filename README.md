@@ -1,6 +1,7 @@
 #Names
 
-* Bryan Pulla
 * Ruiz Ambar
+* Bryan Pulla
 * Tobias Rebecca
 * Alexander Vega
+
