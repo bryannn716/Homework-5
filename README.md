@@ -4,3 +4,4 @@
 
 Ruiz Ambar
 * Tobias Rebecca
+* Alexander Vega
