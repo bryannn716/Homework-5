@@ -1,6 +1,8 @@
 #Names
 
-* Bryan Pulla
-* Kunaraja Czerinton
 * Ruiz Ambar
+* Kunaraja Czerinton
+* Bryan Pulla
 * Tobias Rebecca
+* Alexander Vega
+
