@@ -1,5 +1,5 @@
 #Names
 * Bryan Pulla
 * Ruiz Ambar
-* Stulich John
+* John Stulich
 * Tobias Rebecca
