@@ -7,4 +7,5 @@
 * Napoleon Santan
 * Daniel Tapia
 * Alexander Vega
+* John Stulich
 
