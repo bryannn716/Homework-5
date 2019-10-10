@@ -4,4 +4,5 @@
 * Bryan Pulla
 * Tobias Rebecca
 * Alexander Vega
+* John Stulich
 
