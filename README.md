@@ -5,7 +5,7 @@
 * Bryan Pulla
 * Tobias Rebecca
 * Napoleon Santan
+* John Stulich
 * Daniel Tapia
 * Alexander Vega
-* John Stulich
 
